@@ -2,3 +2,5 @@ node_modules
 notes-api-webserver2.pem
 .env
 .prod.env 
+src/api/uploads/file
+evanaf_dicoding_accessKeys.csv
